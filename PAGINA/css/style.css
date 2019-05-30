@@ -1,0 +1,97 @@
+/*Write your style here*/
+.conte1{
+	background-image: url(../images/banner.jpg);
+	background-attachment: fixed;
+	-webkit-background-size:cover;
+	height:600px;
+	width: 500px;
+	}
+
+.titux{
+	color:white;
+	font-family: arial;
+	font-weight: bold;
+}
+
+.tew{
+	color:white;
+}
+
+.tituxi{
+	color:white;
+	font-size: 55px;
+	font-family: arial;
+	font-weight: bold;
+}
+
+.texl{
+	color:white;
+	border:1px solid white;
+}
+
+.buto{
+	color:white;
+	background-color: #E84642;
+	border:none;
+	padding: 15px 32px;
+}
+
+.conte2{
+	background-color: #D1D1D1;
+	height: 600px;
+	width: 500px;
+}
+
+.conte3{
+	background-color: white;
+	height: 475px;
+	width: 500px;
+}
+
+.dimen{
+	height: 200px;
+	width: 300px;
+	padding-right:15px; 
+}
+
+.conte4{
+	background-color:#E0DCEC;
+	height: 700px;
+	width: 500px;
+}
+
+.ted{
+	color: red;
+}
+
+.ele{
+	font-family:Franklin Gothic Medium;
+	font-size: 25px;
+}
+
+.conte5{
+	background-color: #523547;
+	height: 400px;
+}
+
+.dimenu{
+	height: 400px;
+	width: 680px;
+	margin-right: 86px;
+}
+
+.cartu{
+	font-family: Times New Roman;
+	color:white;
+	padding-top: 45px;
+}
+
+.tuo{
+	padding-top: 50px;
+}
+
+.conte6{
+	background-color: white;
+	height: 250px;
+	width: 500px;
+}
